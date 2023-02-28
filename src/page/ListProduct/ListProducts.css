@@ -1,0 +1,45 @@
+.bodyList {
+    background: #F0F2F5;
+    padding: 20px;
+}
+
+.header {
+    max-width: 1460px;
+    margin: auto;
+    padding: 20px 30px;
+    background: #fff;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.headerSearch {
+    width: 650px;
+}
+
+.headerFilter {
+    width: 250px;
+}
+
+.table {
+    max-width: 1460px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 20px 30px;
+    background: #fff;
+}
+
+.listButton {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.fleFilter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

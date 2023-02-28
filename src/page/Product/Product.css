@@ -1,0 +1,30 @@
+.bgProd {
+    height: 100vh;
+    padding-bottom: 10px;
+    color: azure;
+    background: linear-gradient(to bottom, #90366a, #050809);
+}
+
+.headerBread {
+    padding: 40px 200px;
+    font-family: emoji;
+    font-size: large !important;
+    font-weight: 500 !important;
+}
+
+.ant-breadcrumb .anticon {
+    color: azure !important;
+    font-size: 26px !important;
+}
+
+.ant-breadcrumb .ant-breadcrumb-link>.anticon+span {
+    margin-inline-start: 12px !important;
+    color: azure !important;
+
+}
+
+.contentProd {
+    border: 2px dotted #dd72bb;
+    margin: 70px 200px;
+    padding: 200px;
+}
